@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Sky-devlopment
-- 👀 I’m interested in the Cybersecurity, Software devlopment and on electronics.
-- 🌱 I’m currently learning C
+- 👀 I’m interested in the Software devlopment, Simulation Sandbox development and on robotics.
+- 🌱 I’m currently learning C, C++, C#
